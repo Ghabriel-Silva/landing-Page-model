@@ -145,7 +145,7 @@ transition-timing-function:ease-in-out;
 }
 .section-container-img-02{
     background:url(image/mobile/image-photography.jpg);
-    background-size:contain;
+    background-size:cover;
 }
 
 .section-container-flex-title{
