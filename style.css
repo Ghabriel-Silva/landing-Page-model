@@ -22,7 +22,7 @@
 }
 body{
     max-width:425px;
-    min-width:376px;
+
 }
 header{
     margin:auto;
@@ -30,7 +30,7 @@ header{
     background-position:center;
     background-size:cover;
     height:100vh;
-    max-width:375px;
+    max-width:320px;
 }
 .header-cabeçalho{
     height: 80px;
@@ -55,7 +55,7 @@ header{
     flex-direction:column;
     justify-content: center;
     align-items: center;
-    max-width:375px;
+    max-width:320px;
 }
 .h1{
     width: 230px;
@@ -75,14 +75,11 @@ header{
     margin-top:60px;
 }
 main{
-    max-width:375px;
+    max-width:320px;
     margin: auto;
 }
 .section-container-01-img{
-    min-width:375px;
-}
-img{
-    width:100px;
+    width: 320px;
 }
 .section-container-01-text{
 display: flex;
@@ -211,10 +208,10 @@ aside{
 figure{
     display: flex;
     flex-wrap:wrap;
-    width:375px;
+    width:320px;
 }
 .figure-img{
-    width:187.5px;
+    width:160px;
     background-position: center;
 }
 footer{
@@ -229,7 +226,7 @@ footer{
     width:135px;
 }
 .footer-but{
-    width:375px;
+    width:320px;
     display:flex;
     justify-content: center;
     gap:30px;
@@ -244,7 +241,7 @@ footer{
 .footer-social-midia{
     display:flex;
     justify-content: center;
-    width:375;
+    width:320;
     padding-top:40px;
     gap:30px;
 }
