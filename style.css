@@ -134,8 +134,8 @@ transition-timing-function:ease-in-out;
     flex-direction:column;
     align-items: center;
     justify-content: flex-end;
-    width: 320px;
-    margin: auto;
+    width:320px;
+    margin:auto;
 }
 .section-container-img-01{
     background:url(image/mobile/image-graphic-design.jpg);
