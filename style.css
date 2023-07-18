@@ -313,7 +313,7 @@ footer{
     width: 40px;
   }
 }
-@media (max-width:1440px) and (min-width:769px){
+@media  (min-width:769px){
     /*background: [cor] [imagem] [repetição] [posição] / [tamanho] [âncora];
 */
     header{
@@ -415,7 +415,6 @@ footer{
         display:flex;
         flex-direction:row;
         flex-wrap: nowrap;
-        
     }
     .section-container-01-img{
         width: 50%;
@@ -461,5 +460,14 @@ footer{
     }
     .aside-div-child-text{
         font-size: 17px;
+    }
+    figure{
+        background-color: #34D5B5;
+        width: 100vw;
+        height: auto;
+    }
+    .figure-img{
+        width: 25%;
+        background-position: center;
     }
 }
