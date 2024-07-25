@@ -1,2 +1,2 @@
-# projeto-landingpage-02
- Landingpage de estudo 
+# projeto-landingpage 
+ Projeto desenvolvido para treinar minha habilidades
